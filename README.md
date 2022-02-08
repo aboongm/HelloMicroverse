@@ -12,7 +12,7 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-on your terminal type: git clone git@github.com:aboongm/HelloMicroverse.git
+On your terminal type: git clone git@github.com:aboongm/HelloMicroverse.git
 
 ## Authors
 
@@ -35,5 +35,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
