@@ -9,10 +9,6 @@
 - HTML and CSS
 - Linters and Hint
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -40,11 +36,7 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤
 
 ## 🤝 Contributing
 
