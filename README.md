@@ -14,18 +14,6 @@
 To get a local copy up and running follow these simple example steps.
 on your terminal type: git clone git@github.com:aboongm/HelloMicroverse.git
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 ## Authors
 
 👤 **Author1**
@@ -49,7 +37,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
